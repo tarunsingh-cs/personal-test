@@ -1,0 +1,3 @@
+AccountName=dummystorageacct
+AccountKey=k8uZpQ1/HyfvA4qgVq3F4r81RPTTlrYq2YwqkK6Z3kPpnu9Uo8a9uLhVxQfR+on6cM5lG4cE3T3iOqz2YB6LqA==
+ConnectionString=DefaultEndpointsProtocol=https;AccountName=dummystorageacct;AccountKey=k8uZpQ1/HyfvA4qgVq3F4r81RPTTlrYq2YwqkK6Z3kPpnu9Uo8a9uLhVxQfR+on6cM5lG4cE3T3iOqz2YB6LqA==;EndpointSuffix=core.windows.net
